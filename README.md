@@ -1,6 +1,6 @@
 ## Hey there! 👋 
 
-#### I'm a software developer student who is passionate about science and artificial intelligence!
+#### I'm a software development student who is passionate about science and artificial intelligence!
 
 
 - 🔭  I'm seeking to achieve Machine Learning and Quantum Computing specialization.
