@@ -4,7 +4,7 @@
 
 
 - 🔭  I'm seeking to achieve Machine Learning and Quantum Computing specialization.
-- 🌱  At the moment, I'm currently studying at <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a> and learning MySQL as part of back-end content.
+- 🌱  At the moment, I'm currently studying at <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a> and learning MongoDB as part of back-end content.
 <br>
 <p align="center">Take a look at my repositories and let's get in touch! <br>
   <a href="https://www.linkedin.com/in/rafittu/"> <img src="https://img.shields.io/badge/Rafael%20Ribeiro-blue??style=flat&logo=linkedin&labelColor=blue"> </a>
