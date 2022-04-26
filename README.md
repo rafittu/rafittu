@@ -1,10 +1,10 @@
 ## Hey there! 👋 
 
-#### I'm a software development student who is passionate about science and artificial intelligence!
+#### I'm a web developer who is passionate about science and artificial intelligence!
 
 
 - 🔭  I'm seeking to achieve Machine Learning and Quantum Computing specialization.
-- 🌱  At the moment, I'm currently studying at <a href="https://www.betrybe.com/formacao" rel="nofollow">Trybe</a> and learning Python as part of Data Science content.
+- 🌱  At the moment I'm learning Cloud Computing Services(AWS), to host and develop some applications!
 <br>
 <p align="center">Take a look at my repositories and let's get in touch! <br>
   <a href="https://www.linkedin.com/in/rafittu/"> <img src="https://img.shields.io/badge/Rafael%20Ribeiro-blue??style=flat&logo=linkedin&labelColor=blue"> </a>
