@@ -21,8 +21,6 @@
 <!--
 **rafittu/rafittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
