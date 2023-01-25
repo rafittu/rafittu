@@ -4,7 +4,7 @@
 
 
 - 🔭  I'm seeking to achieve Machine Learning and Quantum Computing specialization.
-- 🌱  At the moment I'm learning Cloud Computing Services(AWS), to host and develop some applications!
+- 🌱  At the moment I'm learning Python and Cloud Computing Services(AWS), to host and develop some applications!
 <br>
 <p align="center">Take a look at my repositories and let's get in touch! <br>
   <a href="https://www.linkedin.com/in/rafittu/"> <img src="https://img.shields.io/badge/Rafael%20Ribeiro-blue??style=flat&logo=linkedin&labelColor=blue"> </a>
