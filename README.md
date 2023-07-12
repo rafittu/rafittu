@@ -1,11 +1,11 @@
 # Hey there! 👋 
 <br>
 
-<p>I'm a web developer driven by curiosity and passionate about science, with a strong desire to develop applications using machine learning!</p>
+<p>I'm a web developer driven by curiosity and passionate about science, with a strong desire to develop applications using machine learning.</p>
 <ul>
   <li>🌱 I'm currently working on personal projects and planning to create my own portfolio.</li>
   <li>🔭 I have a basic knowledge of Amazon AWS and I'll be exploring more of it soon, as I plan to host my projects and further enhance my skills.</li>
-  <li>💡 My goal is to learn about artificial intelligence and quantum computing.</li>
+  <li>💡 My goal is to learn about artificial intelligence and quantum computing!</li>
 </ul>
 <br>
 
