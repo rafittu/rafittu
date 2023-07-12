@@ -9,7 +9,7 @@
 </ul>
 <br>
 
-### Languages, Tools, and Technologies
+### Languages, Tools and Technologies
 <br>
 
 <p>
