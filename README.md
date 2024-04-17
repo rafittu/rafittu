@@ -3,9 +3,9 @@
 
 <p>I'm a web developer driven by curiosity and passionate about science, with a strong desire to develop applications using machine learning.</p>
 <ul>
-  <li>🌱 I'm currently working on personal projects and planning to create my own portfolio.</li>
-  <li>🔭 I have a basic knowledge of Amazon AWS and I'll be exploring more of it soon, as I plan to host my projects and further enhance my skills.</li>
-  <li>💡 My goal is to learn about artificial intelligence and quantum computing!</li>
+  <li>🌻 <a href="https://wophi.be"> Welcome to my digital world! </a> It's my personal portfolio showcasing who Rafael is and my journey as a software developer.</li>
+  <li>🔭 Currently, I'm deepening my knowledge of technologies I already use and developing new projects, both personal and professional.</li>
+  <li>💡 My ongoing goal is to learn more about artificial intelligence and quantum computing!</li>
 </ul>
 <br>
 
