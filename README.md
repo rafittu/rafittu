@@ -3,7 +3,7 @@
 
 <p>I'm a web developer driven by curiosity and passionate about science, with a strong desire to develop applications using machine learning.</p>
 <ul>
-  <li>🌻 <a href="https://wophi.be"> Welcome to my digital world!</a> It's my personal portfolio showcasing who Rafael is and my journey as a software developer.</li>
+  <li>🌻 <a href="https://wophi.be"> Welcome to my digital world!</a> It's my personal portfolio showcasing who is Rafael and my journey as a software developer.</li>
   <li>🔭 Currently, I'm deepening my knowledge of technologies I already use and developing new projects, both personal and professional.</li>
   <li>💡 My ongoing goal is to learn more about artificial intelligence and quantum computing!</li>
 </ul>
