@@ -1,13 +1,13 @@
 # Hey there! 👋 
 <br>
 
-<p>I'm a web developer driven by curiosity and a deep passion for science and technology, especially in the fields of machine learning and artificial intelligence.</p>
-<p><a href="https://wophi.be">🌻 WoPhi!</a> - My personal portfolio, showcasing my journey as a software developer and my vision for the future of technology. Check it out!</p>
+<p>I'm a software developer driven by curiosity and a deep passion for science and technology, especially in the fields of machine learning and artificial intelligence.</p>
 <br>
 
 <ul>
   <li>🔭 I'm currently working on a bot trader project that integrates machine learning and AI to enhance real-time financial decision-making.</li>
   <li>💡 I’m also diving deeper into quantum computing to bring innovative solutions to real-world challenges.</li>
+  <li><a href="https://wophi.be">🌻 WoPhi!</a> - My personal portfolio, showcasing my journey as a software developer and a little bit of me. Check it out!</li>
 </ul>
 <br>
 
